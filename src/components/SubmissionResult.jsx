@@ -28,7 +28,7 @@ function SubmissionResult() {
             </li>
           ))}
         </ul>
-        <button onClick={() => navigate('/')}>Back to Form</button>
+        <button onClick={() => navigate('/CelebalTech-FormValidation')}>Back to Form</button>
       </div>
     </div>
   );

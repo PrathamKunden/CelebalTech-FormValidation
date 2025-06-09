@@ -7,7 +7,7 @@ function App() {
   return (
     <Router>
       <Routes>
-        <Route path="/" element={<RegisterForm />} />
+        <Route path="/CelebalTech-FormValidation" element={<RegisterForm />} />
         <Route path="/result" element={<SubmissionResult />} />
       </Routes>
     </Router>
